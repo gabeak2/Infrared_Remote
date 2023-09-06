@@ -1,0 +1,6 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"D1","LED_Small","LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-95.631000,-81.026000,0.000000,bottom
+"SW1","Switch_SW_Push","button_cheapo_ebay_smd",-95.123000,-52.232800,180.000000,bottom
+"SW2","Switch_SW_Push","button_cheapo_ebay_smd",-95.123000,-59.232800,180.000000,bottom
+"SW3","Switch_SW_Push","button_cheapo_ebay_smd",-95.123000,-66.232800,180.000000,bottom
+"SW4","Switch_SW_Push","button_cheapo_ebay_smd",-95.123000,-73.232800,180.000000,bottom

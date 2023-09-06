@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name infrared_remote)(type Legacy)(uri ${KIPRJMOD}/infrared_remote.lib)(options "")(descr ""))
+  (lib (name attiny_1614_breakout-cache)(type Legacy)(uri C:/Users/gabea/OneDrive/Documents/kicad/attiny1614_breakout/attiny_1614_breakout/attiny_1614_breakout-cache.lib)(options "")(descr ""))
+)
